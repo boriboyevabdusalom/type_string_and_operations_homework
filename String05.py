@@ -8,4 +8,4 @@ def main(s1,s2):
         str: return answer.
     """
     return (s1+' '+s2)
-print(main('"python"', '"coder"'))
+print(main('"code"', '"school"'))
