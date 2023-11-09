@@ -4,5 +4,8 @@ def main():
         None
     Returns:
         str: return answer.
-    """
-    return 
+    """ 
+    a = '12345678'
+    b = 'aaaazzzz'
+    return len(a,),a, len(b), b
+print(main())
